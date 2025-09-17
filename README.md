@@ -10,7 +10,7 @@ The data is displayed via a **web interface** or Wokwi simulation.
 - Wokwi simulation available  
 
 ## 🔗 Simulation Link
-[Click here to open Wokwi Simulation](https://wokwi.com/projects/332510428536147456)
+[Click here to open Wokwi Simulation](https://wokwi.com/projects/442323983587922945)
 
 ## 🛠️ Components Used
 - ESP32  
